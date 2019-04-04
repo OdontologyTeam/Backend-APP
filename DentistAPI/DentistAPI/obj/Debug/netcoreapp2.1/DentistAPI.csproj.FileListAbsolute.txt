@@ -1,0 +1,3 @@
+C:\Users\David\Documents\GitHub\dentist\Backend-APP\DentistAPI\DentistAPI\obj\Debug\netcoreapp2.1\DentistAPI.csproj.CoreCompileInputs.cache
+C:\Users\David\Documents\GitHub\dentist\Backend-APP\DentistAPI\DentistAPI\obj\Debug\netcoreapp2.1\DentistAPI.AssemblyInfoInputs.cache
+C:\Users\David\Documents\GitHub\dentist\Backend-APP\DentistAPI\DentistAPI\obj\Debug\netcoreapp2.1\DentistAPI.AssemblyInfo.cs
