@@ -10,10 +10,10 @@ namespace DentistAPI.Model
         {
         }
 
-        public dentistdbContext(DbContextOptions<dentistdbContext> options)
+        /*public dentistdbContext(DbContextOptions<dentistdbContext> options)
             : base(options)
         {
-        }
+        }*/
 
         public virtual DbSet<Antecedentemedico> Antecedentemedico { get; set; }
         public virtual DbSet<Antecedenteodontologico> Antecedenteodontologico { get; set; }
